@@ -51,7 +51,7 @@
         <li>Check for duplicate topic IDs within the DITA map context. By default the topic ID can
           be used in the WebHelp output for <xref
             href="https://www.oxygenxml.com/doc/ug-editor/index.html#topics/context-sensitive-help-system.html"
-            format="html" scope="external">context sensitive help</xref>. Also certain CMSs require
+            format="" scope="">context sensitive help</xref>. Also certain CMSs require
           that a certain topic ID would be unique in the entire DITA Map.</li>
         <li>Report elements with the same ID placed in the same DITA Topic according to the
           specification.</li>
